@@ -34,5 +34,6 @@
 <p float="left">
   <img src="https://user-images.githubusercontent.com/47838862/117916843-52589700-b2be-11eb-8be0-11ed8ac63123.png" alt="LinkedIN icon" height="35" width="35" name="LinkedIN">
 </p>
-![LinkedIN](https://www.linkedin.com/in/lucas-anaissi-b8b87516b/)
+
+[LinkedIN](https://www.linkedin.com/in/lucas-anaissi-b8b87516b/)
 
