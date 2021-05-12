@@ -6,7 +6,7 @@
 *Let me introduce myself*<br>
 ➔ ✨ 21 years old. <br>
 ➔ ✈️ Aviation lover. <br>
-➔ 📍  Paraná, Brazil. <br>
+➔  📍  Paraná, Brazil. <br>
 ➔ 🔧 Electromechanical technician by [SENAI](https://www.senaipr.org.br/guarapuava-1-9523-69443.shtml)<br>
 ➔ 💻 Computer science student in [UNICENTRO](https://www3.unicentro.br/)<br>
 <hr>
