@@ -1,4 +1,4 @@
-link rel="stylesheet" type="text/css" href="README.css">
+<link rel="stylesheet" type="text/css" href="README.css">
 
 # Nice to meet you, my name is Lucas aka Jacó.  👩🏻‍💻
 <hr>
