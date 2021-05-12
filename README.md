@@ -22,6 +22,6 @@
       <img src="https://user-images.githubusercontent.com/47838862/117916221-1a048900-b2bd-11eb-8b76-5d38a5a9d435.png" alt="CSS icon" height="35" width="35">
       <img src="https://user-images.githubusercontent.com/47838862/117916173-fe00e780-b2bc-11eb-8d60-336e37757ed0.png" alt="HTML icon" height="35" width="35">
       <img src="https://user-images.githubusercontent.com/47838862/117916386-71a2f480-b2bd-11eb-9a48-8b2274cbd6d7.png" alt="JS icon" height="35" width="35">   
-      <img src="https://user-images.githubusercontent.com/47838862/117916260-30124980-b2bd-11eb-8d97-2622378e4b73.png" alt="PHP icon" height="35" width="35">
+      <img src="https://user-images.githubusercontent.com/47838862/117916487-a31bc000-b2bd-11eb-88ae-879863b1de3a.png" alt="PHP icon" height="35" width="35">
       <img src="https://user-images.githubusercontent.com/47838862/117914546-f7bd3c00-b2b9-11eb-9386-d836eb1014c8.png" alt="Laravel icon" height="35" width="35">
 </p>
