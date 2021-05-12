@@ -14,9 +14,9 @@ __<br>
 ### My affinities
 <div class="row">
   <div class="col-1">
-      <img src="https://user-images.githubusercontent.com/47838862/117913058-08b87e00-b2b7-11eb-8bc8-9da1c01104b0.png" alt="Python icon" height="42" width="42">
+      <img src="https://user-images.githubusercontent.com/47838862/117913058-08b87e00-b2b7-11eb-8bc8-9da1c01104b0.png" alt="Python icon" height="25" width="25">
   </div>
   <div class="col-1">
-       <img src="https://user-images.githubusercontent.com/47838862/117913102-1f5ed500-b2b7-11eb-96f3-9c9cd4aa7743.png" alt="C icon" height="42" width="42">
+       <img src="https://user-images.githubusercontent.com/47838862/117913102-1f5ed500-b2b7-11eb-96f3-9c9cd4aa7743.png" alt="C icon" height="25" width="25">
   </div>
 </div>
