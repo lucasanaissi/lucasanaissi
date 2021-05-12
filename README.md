@@ -1,5 +1,8 @@
+link rel="stylesheet" type="text/css" href="README.css">
+
 # Nice to meet you, my name is Lucas aka Jacó.  👩🏻‍💻
 <hr>
+
 
 ###First of all welcome to my Git webpage, feel yourself at home.<br>
 *Let me introduce myself*<br>
