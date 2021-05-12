@@ -1,3 +1,5 @@
+## UNDER DEVELOPMENT 🚧
+
 # Nice to meet you, my name is Lucas aka Jacó.  👩🏻‍💻
 <hr>
 
@@ -37,9 +39,3 @@
        <img src="https://user-images.githubusercontent.com/47838862/117914546-f7bd3c00-b2b9-11eb-9386-d836eb1014c8.png" alt="Laravel icon" height="35" width="35" style="width:100%">
   </div>
 </div>
-
-
-## UNDER DEVELOPMENT 🚧
-
-
-
