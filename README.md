@@ -4,7 +4,7 @@
 <hr>
 
 
-###First of all welcome to my Git webpage, feel yourself at home.<br>
+### First of all welcome to my Git webpage, feel yourself at home.<br>
 *Let me introduce myself*<br>
 ➔ ✨ 21 years old. <br>
 ➔ ✈️ Aviation lover. <br>
