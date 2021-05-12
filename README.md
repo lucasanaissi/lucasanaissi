@@ -1,4 +1,4 @@
-## UNDER DEVELOPMENT 🚧
+##  🚧 UNDER DEVELOPMENT 🚧
 
 # Nice to meet you, my name is Lucas aka Jacó.  👩🏻‍💻
 <hr>
