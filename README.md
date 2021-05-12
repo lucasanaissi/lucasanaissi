@@ -12,9 +12,15 @@
 ➔ 💻 Computer science student in [UNICENTRO](https://www3.unicentro.br/)<br>
 __<br>
 ### My affinities
+<figure>
+  <img src="![267_Python-512](https://user-images.githubusercontent.com/47838862/117913058-08b87e00-b2b7-11eb-8bc8-9da1c01104b0.png)" alt="Minha Figura">
+  <figcaption>Informações da Figura</figcaption>
+</figure>
+<figure>
+  <img src="![c-programming-569564](https://user-images.githubusercontent.com/47838862/117913102-1f5ed500-b2b7-11eb-96f3-9c9cd4aa7743.png)" alt="Minha Figura">
+  <figcaption>Informações da Figura</figcaption>
+</figure>
 
-![267_Python-512](https://user-images.githubusercontent.com/47838862/117913058-08b87e00-b2b7-11eb-8bc8-9da1c01104b0.png=100x)
-![c-programming-569564](https://user-images.githubusercontent.com/47838862/117913102-1f5ed500-b2b7-11eb-96f3-9c9cd4aa7743.png=100x)
 
 
 
