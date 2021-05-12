@@ -1,5 +1,16 @@
 <link rel="stylesheet" type="text/css" href="README.css">
 
+<style>
+  .col-1{
+    float: left;
+    width: 33.33%;
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+</style>
+
 # Nice to meet you, my name is Lucas aka Jacó.  👩🏻‍💻
 <hr>
 
@@ -40,16 +51,7 @@
   </div>
 </div>
 
-<style>
-.col-1{
-  float: left;
-  width: 33.33%;
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
+
 
 
 
