@@ -10,7 +10,7 @@
 ➔ 💻 Computer science student in [UNICENTRO](https://www3.unicentro.br/)<br>
 <hr>
 
-#### My affinities <br>
+### My affinities <br>
 
 <div class="row">
   <div class="col-1">
@@ -21,7 +21,7 @@
   </div>
 </div>
 
-#### Learning <br>
+### Learning <br>
 
 <div class="row">
   <div class="col-1">
