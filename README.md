@@ -10,7 +10,7 @@
 ➔ ✈️ Aviation lover. <br>
 ➔ 🔧 Electromechanical technician by [SENAI](https://www.senaipr.org.br/guarapuava-1-9523-69443.shtml)<br>
 ➔ 💻 Computer science student in [UNICENTRO](https://www3.unicentro.br/)<br>
-__<br>
+<hr>
 #### My affinities <br>
 <div class="row">
   <div class="col-1">
@@ -20,7 +20,9 @@ __<br>
        <img src="https://user-images.githubusercontent.com/47838862/117913102-1f5ed500-b2b7-11eb-96f3-9c9cd4aa7743.png" alt="C icon" height="35" width="35">
   </div>
 </div>
+
 #### Learning <br>
+
 <div class="row">
   <div class="col-1">
       <img src="https://user-images.githubusercontent.com/47838862/117914484-d65c5000-b2b9-11eb-9414-b85816cfe9a9.png" alt="PHP icon" height="35" width="35">
