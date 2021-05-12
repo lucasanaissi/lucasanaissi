@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style">
-
 <style>
   .col-1{
     float: left;
