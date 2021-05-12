@@ -11,7 +11,8 @@
 ➔ 🔧 Electromechanical technician by [SENAI](https://www.senaipr.org.br/guarapuava-1-9523-69443.shtml)<br>
 ➔ 💻 Computer science student in [UNICENTRO](https://www3.unicentro.br/)<br>
 __<br>
-*My affinities
+
+*My affinities <br>
 <div class="row">
   <div class="col-1">
       <img src="https://user-images.githubusercontent.com/47838862/117913058-08b87e00-b2b7-11eb-8bc8-9da1c01104b0.png" alt="Python icon" height="35" width="35">
@@ -21,7 +22,7 @@ __<br>
   </div>
 </div>
 
-*Learning
+*Learning <br>
 
 <div class="row">
   <div class="col-1">
