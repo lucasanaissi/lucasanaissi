@@ -21,7 +21,7 @@
 
 <p float="left">
       <img src="https://user-images.githubusercontent.com/47838862/157051683-2f0de150-169a-49ed-9ce5-163103c4d527.png" alt="Flutter icon" height="35" width="35">
-      <img src="https://user-images.githubusercontent.com/47838862/157052323-17811700-ad14-4963-96d6-f34c1412fcb9.png)" alt="Dart icon" height="35" width="35">
+      <img src="https://user-images.githubusercontent.com/47838862/157052323-17811700-ad14-4963-96d6-f34c1412fcb9.png" alt="Dart icon" height="35" width="35">
 </p>
 
 <hr>
