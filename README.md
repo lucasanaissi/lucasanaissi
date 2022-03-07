@@ -20,16 +20,12 @@
 ### Learning <br>
 
 <p float="left">
-      <img src="https://user-images.githubusercontent.com/47838862/117916221-1a048900-b2bd-11eb-8b76-5d38a5a9d435.png" alt="CSS icon" height="35" width="35">
-      <img src="https://user-images.githubusercontent.com/47838862/117916173-fe00e780-b2bc-11eb-8d60-336e37757ed0.png" alt="HTML icon" height="35" width="35">
-      <img src="https://user-images.githubusercontent.com/47838862/117916386-71a2f480-b2bd-11eb-9a48-8b2274cbd6d7.png" alt="JS icon" height="35" width="35">   
-      <img src="https://user-images.githubusercontent.com/47838862/117916539-b9298080-b2bd-11eb-8068-66b43a218a7c.png" alt="PHP icon" height="35" width="35">
-      <img src="https://user-images.githubusercontent.com/47838862/117914546-f7bd3c00-b2b9-11eb-9386-d836eb1014c8.png" alt="Laravel icon" height="35" width="35">
-</p>
+      <img src="https://user-images.githubusercontent.com/47838862/157051683-2f0de150-169a-49ed-9ce5-163103c4d527.png" alt="Flutter icon" height="35" width="35">
+</p>!
+
 
 <hr>
 
 ## Profissional Medias
 
 [LinkedIN](https://www.linkedin.com/in/lucas-anaissi-b8b87516b/)
-
