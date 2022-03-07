@@ -8,7 +8,7 @@
 ➔ ✈️ Aviation lover. <br>
 ➔  📍  Paraná, Brazil. <br>
 ➔ 🔧 Electromechanical technician by [SENAI](https://www.senaipr.org.br/guarapuava-1-9523-69443.shtml)<br>
-➔ 💻 Computer science student in [UNICENTRO](https://www3.unicentro.br/)<br>
+➔ 💻 System Analysis and Development student in [UNIGUAIRACÁ](https://www.guairaca.com.br/)<br>
 <hr>
 
 ### My affinities <br>
